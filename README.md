@@ -26,7 +26,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Ticket Lifecycle Stages</h2>
 <ol>
-  <li></li>
+  <li>Intake</li>
+  <li>Assignment and Communication</li>
+  <li>Working the Issue</li>
+  <li>Resolution</li>
 </ol>
 
 </br>
@@ -35,7 +38,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <!-- <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/> -->
 
-<h3></h3>
+<h3>1 - Intake</h3>
 
 <p>
   <ul>
