@@ -80,6 +80,18 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
     <ul>
       <li><img src="https://github.com/ColtonTrauCC/ticket-lifecycle/assets/147654000/b088102b-45e2-4303-b557-12df0c70eb48" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
     </ul>
+    <li>By going to the link next to <b>Department</b> to set the Department. For this Business Critical Outage ticket, it'll be set from Support to System Administrators</li>
+    <ul>
+      <li><img src="https://github.com/ColtonTrauCC/ticket-lifecycle/assets/147654000/9fe7f262-9961-4ab9-b95c-c1a0c13be6a5" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
+    </ul>
+    <li>The Ticket Thread is updated when we make the changes to ticket</li>
+    <ul>
+      <li><img src="https://github.com/ColtonTrauCC/ticket-lifecycle/assets/147654000/d69cf505-0e4d-4616-9718-8cdc823ea154" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
+    </ul>
+    <li>The Agent can message the End User through the Ticket Thread to update the User on the ticket as well as set the status of the ticket</li>
+    <ul>
+      <li><img src="https://github.com/ColtonTrauCC/ticket-lifecycle/assets/147654000/becb0089-d4b7-411f-bba0-d5e5fefd649b" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
+    </ul>
   </ul>
 </p>
 
