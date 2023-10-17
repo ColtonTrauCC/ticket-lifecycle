@@ -38,7 +38,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <!-- <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/> -->
 
-<h3>1 - Intake</h3>
+<h3>Intake</h3>
 
 <p>
   <ul>
@@ -59,7 +59,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   </ul>
 </p>
 
-<h3>2 - Assignment & Communication</h3>
+<h3>Assignment & Communication</h3>
 
 <p>
   <ul>
@@ -88,7 +88,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
     <ul>
       <li><img src="https://github.com/ColtonTrauCC/ticket-lifecycle/assets/147654000/d69cf505-0e4d-4616-9718-8cdc823ea154" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
     </ul>
-    <li>The Agent can message the End User through the Ticket Thread to update the User on the ticket as well as set the status of the ticket (which is left as open since we need to work it out)</li>
+    <li>The Agent can message the End User through the Ticket Thread to update the User on the ticket as well as set the status of the ticket (which is left as <b>Open</b> since we need to work it out)</li>
     <ul>
       <li><img src="https://github.com/ColtonTrauCC/ticket-lifecycle/assets/147654000/becb0089-d4b7-411f-bba0-d5e5fefd649b" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
     </ul>
@@ -97,17 +97,24 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <br />
 
-<h3>3 - Working the Issue</h3>
+<h3>Working the Issue and Resolution</h3>
 
 <p>
   <ul>
-    <li></li>
+    <li>Following from our Assignment of Departments and Communication with User, the issue in our hypothetical Critical Banking Outage ticket has been resolved thanks to System Engineering. The Agent should now communicate the issue with the End User using the Ticket Thread and set the status of the ticket from Open to <b>Resolved</b>. Upon posting the Reply, the ticket is <b>Closed</b>.</li>
+    <ul>
+      <li><img src="https://github.com/ColtonTrauCC/ticket-lifecycle/assets/147654000/fa08856b-4eb5-430b-ac76-ca606e494229" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
+    </ul>
+    <li>Closed tickets can be found under the Closed section in our Tickets tab, where information and status of the tickets are archived. It is good practice for Agents to study Closed tickets to improve their experience in working with them</li>
+    <ul>
+      <li><img src="https://github.com/ColtonTrauCC/ticket-lifecycle/assets/147654000/2e3b4963-5ca7-4d82-a004-17d2c166c8a0" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
+    </ul>
   </ul>
 </p>
 
 <br />
 
-<h3>4 - Resolution</h3>
+<h2>Misc. Ticket Managing Tasks</h2>
 
 <p>
   <ul>
