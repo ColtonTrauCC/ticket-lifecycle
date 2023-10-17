@@ -65,7 +65,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   <ul>
     <li>The Business Critical Outage ticket by Karen numbered 282733 is assigned to the Agent Jane Doe. From Jane's perspective, this is how the ticket first looks.</li>
     <ul>
-      <li>The User and Agent are able to message each other through the <b>Ticket Thread</b> located in the bottom</li>
+      <li>The Agent is able to message the End User through the <b>Ticket Thread</b> located in the bottom of the ticket page</li>
       <li><img src="https://github.com/ColtonTrauCC/ticket-lifecycle/assets/147654000/dad0149d-9a9a-427a-88e7-73a91ee3bcd3" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
     </ul>
     <li>By going to the link next to <b>Priority</b>, you are able to set the priority of the ticket to Low, Normal, High, or Emergency</li>
