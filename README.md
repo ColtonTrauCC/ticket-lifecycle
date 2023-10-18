@@ -72,7 +72,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
     <ul>
       <li><img src="https://github.com/ColtonTrauCC/ticket-lifecycle/assets/147654000/aceb0b2b-6d14-486c-951b-5510c01288d3" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
     </ul>
-    <li>By going to the greyed out link --Unassigned-- next to <b>Assigned to</b>, you can assign the ticket to a Team or Agents</li>
+    <li>By going to the greyed out link --Unassigned-- next to <b>Assigned to</b>, you can assign the ticket to a Team or Agents. Note if we were to assign it to an Agent outside of Agent Jane's Department, it will not appear in their feed.</li>
     <ul>
       <li><img src="https://github.com/ColtonTrauCC/ticket-lifecycle/assets/147654000/7705f431-b2b8-4a70-b357-cb9099276909" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
     </ul>
@@ -109,16 +109,6 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
     <ul>
       <li><img src="https://github.com/ColtonTrauCC/ticket-lifecycle/assets/147654000/2e3b4963-5ca7-4d82-a004-17d2c166c8a0" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
     </ul>
-  </ul>
-</p>
-
-<br />
-
-<h2>Misc. Ticket Managing Tasks</h2>
-
-<p>
-  <ul>
-    <li></li>
   </ul>
 </p>
 
